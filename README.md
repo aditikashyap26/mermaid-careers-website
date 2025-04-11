@@ -1,2 +1,2 @@
 # mermaid-careers-website
-A careers website for marmaid
+A careers website for mermaid
